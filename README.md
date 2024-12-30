@@ -15,3 +15,12 @@ Email: [tb497@cornell.edu](tb497@cornell.edu)
 Address: 438 Warren Hall, Cornell University, Ithaca, NY 14853-6201
 
 Twitter/X: [@tsenguunjav](@tsenguunjav)
+
+# Job Market Paper
+
+**[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
+
+# Publication
+
+**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)**__
+(with Arnab K. Basu, Nancy H. Chau, and Neha Khanna)
