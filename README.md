@@ -1,1 +1,1 @@
-# tbyambasuren.github.io
+Ph.D. Candidate, Cornell University
