@@ -11,7 +11,5 @@ Fields: Labor Economics, Development Economics
 # Contact
 
 Email: tb497@cornell.edu
-
 Address: 438 Warren Hall, Cornell University, Ithaca, NY 14853-6201
-
 Twitter/X: @tsenguunjav
