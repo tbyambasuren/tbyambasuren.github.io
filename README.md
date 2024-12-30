@@ -6,7 +6,7 @@ My current research focuses on studying the labor market power and its sources, 
 
 **[CV](https://tbyambasuren.github.io/cv/byambasuren_cvweb.pdf)** (Updated December 2024)
 
-**Fields:** Labor Economics, Development Economics
+Fields: Labor Economics, Development Economics
 
 ## Contact
 
@@ -16,12 +16,13 @@ Address: 438 Warren Hall, Cornell University, Ithaca, NY 14853-6201
 
 Twitter/X: [@tsenguunjav](@tsenguunjav)
 
+## Publications
+
+**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
+(with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
+__Journal of Economic Behavior and Organization__, Volume 222, June 2024, Pages 240-265 <br />
+[Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)
+
 ## Job Market Paper
 
 **[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
-
-## Publication
-
-**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
-(with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/))<br />
-[Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)
