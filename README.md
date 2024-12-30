@@ -22,5 +22,5 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 # Publication
 
-**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)**__
+**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with Arnab K. Basu, Nancy H. Chau, and Neha Khanna)
