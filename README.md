@@ -86,8 +86,8 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Teaching
 
-* Teaching Assistant at Cornell
-   * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
+**Teaching Assistant at Cornell**
+   Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 
 Teaching Assistant to Professor Arnab K. Basu, Introduction to Macroeconomic Theory and Policy (Undergraduate, Cornell AEM 1300), Summer 2024
 
