@@ -47,7 +47,7 @@ This paper studies the role of automation threat in firms’ labor market power.
 
 ## Working Papers
 
-**[Public Works Program, Labor Supply, and Monopsony]()** <br />
+**Public Works Program, Labor Supply, and Monopsony** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 <details>
 <summary>Abstract (click to expand)</summary>
@@ -62,7 +62,7 @@ We propose a theory to show that a firm’s wage markdown, a measure of monopson
 This paper investigates the impacts of artisanal gold mining—the primary form of labor-intensive small-scale mining with hand tools—on intimate partner violence (IPV) against women in Sub-Saharan Africa, where female artisanal miners constitute a significant portion of the workforce. Exploiting cell-level spatial variation in gold suitability and an exogenous variation in international gold price for identification, we estimate the causal effects of artisanal gold mining conditional on industrial gold mines and other environmental shocks. Based on nationally representative data covering over 30 countries from the region, we find that less severe physical IPV experienced less frequently by women decreases mainly due to improvement in women’s bargaining power enhanced by an increase in their earning potential from extractive and sales or retail activities relative to husbands in response to the increased profitability of artisanal mining. The IPV-reducing short-run effects of artisanal gold mining, which are opposite from the impacts of industrial gold mining, tend to persist in the long term as its driving forces sustain over time. However, sexual IPV generally increases due to artisanal and industrial gold mining.
 </details>
 
-**[Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal]()** <br />
+**Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 <details>
 <summary>Abstract (click to expand)</summary>
