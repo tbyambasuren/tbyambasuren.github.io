@@ -22,7 +22,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 ## Publications
 
-### **[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
+**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Volume 222, June 2024, Pages 240-265 <br />
 [Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf) <br />
@@ -32,51 +32,51 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Job Market Paper
 
-### **[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
+**[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
 
 ---
 
 ## Working Papers
 
-### **Public Works Program, Labor Supply, and Monopsony** (Draft available upon request) <br />
+**Public Works Program, Labor Supply, and Monopsony** (Draft available upon request) <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-### **[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
+**[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
  (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
 
-### **Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal** (Draft available upon request) <br />
+**Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal** (Draft available upon request) <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
 
 ## Selected Work in Progress
 
-### **Foreign Direct Investment and Monopsony** <br />
+**Foreign Direct Investment and Monopsony** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), [Anh Nguyen](https://sites.google.com/view/anhptnguyen/) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-### **On the Intra-Household Public Goods and Fertility Trade-Off** <br />
+**On the Intra-Household Public Goods and Fertility Trade-Off** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
 
 ## Reports
 
-### **Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia** <br />
+**Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia** <br />
 (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/))
 
-### **The Price Elasticity of Electricity Demand in the Republic of Georgia** <br />
+**The Price Elasticity of Electricity Demand in the Republic of Georgia** <br />
 (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
 
 ## Discussions
 
-### **Global Labor Market Power** <br />
+**Global Labor Market Power** <br />
 (by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio) <br />
 2024 North East Universities Development Consortium (NEUDC) (Northeastern University) <br />
 [Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)
 
-### **Family Planning and the Female Labor Supply: Evidence from Urban Malawi** <br />
+**Family Planning and the Female Labor Supply: Evidence from Urban Malawi** <br />
 (by Mahesh Karra, Daniel Maggio, and David Canning) <br />
 2023 Midwest International Economic Development Conference (MWIEDC) (University of Houston) <br />
 [Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf) <br />
@@ -86,7 +86,7 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Teaching
 
-### **Teaching Assistant at Cornell**
+**Teaching Assistant at Cornell**
 
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
@@ -95,7 +95,7 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
 
-### **Teaching Award**
+**Teaching Award**
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
