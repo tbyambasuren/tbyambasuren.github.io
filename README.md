@@ -86,14 +86,16 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Teaching
 
-**Teaching Assistant at Cornell**
-
+**Teaching Assistant at Cornell** <br />
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
 * Applied Managerial Economics (Undergraduate, AEM 4100), Professor Terence Alexander, Fall 2022/2023
 * Research and Methods (Master of Professional Studies, AEM 6991), Professors Mark Constas, Aija Leiponen and Daniela Scur, Fall 2021
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
+
+**Teaching Award** <br />
+* Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
 
 
