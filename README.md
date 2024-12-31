@@ -23,6 +23,11 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 **[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265 <br />
+<details>
+<summary>Abstract (click to expand)</summary>
+How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.
+</details>
+
 [Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf) <br />
 Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cooking-fuels-pose-major-threat-infants-india), [The Hindu](https://www.thehindu.com/sci-tech/health/dirty-cooking-fuels-threaten-infants-in-india-says-us-study/article68383612.ece), [The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/dirty-cooking-fuels-pose-major-threat-to-infants-in-india/articleshow/111584763.cms), [Times Now](https://www.timesnownews.com/health/study-says-dirty-cooking-fuels-poses-a-risk-to-infant-health-in-india-article-111598768), [Press Trust of India](https://www.ptinews.com/story/international/27-of-every-1-000-babies-and-children-die-due-to-exposure-to-dirty-cooking-fuels-in-india-claims-report/1642146), [Medical Xpress](https://medicalxpress.com/news/2024-07-dirty-cooking-fuels-pose-major.html)
 
