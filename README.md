@@ -12,9 +12,10 @@ My current research focuses on studying the labor market power and its sources, 
 
 ## Contact
 
-Email: [tb497@cornell.edu](tb497@cornell.edu) <br />
-Address: 438 Warren Hall, Cornell University, Ithaca, NY 14853 <br />
-Twitter/X: [@tsenguunjav](@tsenguunjav)
+**Email:** [tb497@cornell.edu](tb497@cornell.edu) <br />
+**Address:** <br />
+438 Warren Hall, Cornell University <br />
+Ithaca, NY 14853 <br />
 
 ---
 
