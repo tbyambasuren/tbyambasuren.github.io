@@ -22,7 +22,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 **[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
-*Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265 <br />
+*Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265
 <details>
 <summary>Abstract (click to expand)</summary>
 
@@ -39,9 +39,10 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 **[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
 <details>
 <summary>Abstract (click to expand)</summary>
-This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition.<br />
+This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition.
 </details>
 
+<br />
 ---
 
 ## Working Papers
