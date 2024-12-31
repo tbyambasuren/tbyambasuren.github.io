@@ -20,11 +20,13 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 ## Publications
 
-**[<font size="+.5">Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
+**[<font size="+.75">Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265
-<details><summary>Abstract (click to expand)</summary>
-How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.</details>
+<details>
+<summary>Abstract (click to expand)</summary>
+How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.
+</details>
 
 [Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf) <br />
 Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cooking-fuels-pose-major-threat-infants-india), [The Hindu](https://www.thehindu.com/sci-tech/health/dirty-cooking-fuels-threaten-infants-in-india-says-us-study/article68383612.ece), [The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/dirty-cooking-fuels-pose-major-threat-to-infants-in-india/articleshow/111584763.cms), [Times Now](https://www.timesnownews.com/health/study-says-dirty-cooking-fuels-poses-a-risk-to-infant-health-in-india-article-111598768), [Press Trust of India](https://www.ptinews.com/story/international/27-of-every-1-000-babies-and-children-die-due-to-exposure-to-dirty-cooking-fuels-in-india-claims-report/1642146), [Medical Xpress](https://medicalxpress.com/news/2024-07-dirty-cooking-fuels-pose-major.html)
@@ -33,59 +35,67 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Job Market Paper
 
-**[<font size="+.5">Automation Threat and Labor Market Power</font>](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
-<details><summary>Abstract (click to expand)</summary>
-This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition.</details>
+**[<font size="+.75">Automation Threat and Labor Market Power</font>](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
+<details>
+<summary>Abstract (click to expand)</summary>
+This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition.
+</details>
 
 ---
 
 ## Working Papers
 
-**[<font size="+.5">Public Works Program, Labor Supply, and Monopsony</font>]()** <br />
+**[<font size="+.75">Public Works Program, Labor Supply, and Monopsony</font>]()** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
-<details><summary>Abstract (click to expand)</summary>
-We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—ratio of MRPL to wages, is a weighted average of markdowns over diﬀerent workers. We test the model using India's National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs and potentially creates variation in workforce composition in manufacturing firms as a natural experiment. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturers by reducing the employment of mobile workers and leaving immobile workers withlow laborsupply elasticityemployed atmanufacturing firms.</details>
+<details>
+<summary>Abstract (click to expand)</summary>
+We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—ratio of MRPL to wages, is a weighted average of markdowns over diﬀerent workers. We test the model using India's National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs and potentially creates variation in workforce composition in manufacturing firms as a natural experiment. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturers by reducing the employment of mobile workers and leaving immobile workers withlow laborsupply elasticityemployed atmanufacturing firms.
+</details>
 
-**[<font size="+.5">Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
- (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
-<details><summary>Abstract (click to expand)</summary>
-This paper investigates the impacts of artisanal gold mining—the primary form of labor-intensive small-scale mining with hand tools—on intimate partner violence (IPV) against women in Sub-Saharan Africa, where female artisanal miners constitute a significant portion of the workforce. Exploiting cell-level spatial variation in gold suitability and an exogenous variation in international gold price for identification, we estimate the causal effects of artisanal gold mining conditional on industrial gold mines and other environmental shocks. Based on nationally representative data covering over 30 countries from the region, we find that less severe physical IPV experienced less frequently by women decreases mainly due to improvement in women’s bargaining power enhanced by an increase in their earning potential from extractive and sales or retail activities relative to husbands in response to the increased profitability of artisanal mining. The IPV-reducing short-run effects of artisanal gold mining, which are opposite from the impacts of industrial gold mining, tend to persist in the long term as its driving forces sustain over time. However, sexual IPV generally increases due to artisanal and industrial gold mining.</details>
+**[<font size="+.75">Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
+(with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
+<details>
+<summary>Abstract (click to expand)</summary>
+This paper investigates the impacts of artisanal gold mining—the primary form of labor-intensive small-scale mining with hand tools—on intimate partner violence (IPV) against women in Sub-Saharan Africa, where female artisanal miners constitute a significant portion of the workforce. Exploiting cell-level spatial variation in gold suitability and an exogenous variation in international gold price for identification, we estimate the causal effects of artisanal gold mining conditional on industrial gold mines and other environmental shocks. Based on nationally representative data covering over 30 countries from the region, we find that less severe physical IPV experienced less frequently by women decreases mainly due to improvement in women’s bargaining power enhanced by an increase in their earning potential from extractive and sales or retail activities relative to husbands in response to the increased profitability of artisanal mining. The IPV-reducing short-run effects of artisanal gold mining, which are opposite from the impacts of industrial gold mining, tend to persist in the long term as its driving forces sustain over time. However, sexual IPV generally increases due to artisanal and industrial gold mining.
+</details>
 
-**[<font size="+.5">Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal</font>]()** <br />
+**[<font size="+.75">Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal</font>]()** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
-<details><summary>Abstract (click to expand)</summary>
-This paper analyzes the short- and long-term effects of a partial liquor ban in Kerala, India, from 2014-2017 on women's experience with intimate partner violence (IPV). Leveraging neighbor states that are comparable and sufficiently isolated in our context as the comparison group, we employ difference-in-differences and event-study approaches to identify the causal effects of a policy that shuts down hard liquor-serving local bars. We find that the likelihood of experiencing physical IPV decreased during the policy period only in high-wealth households, the primary consumers of expensive hard liquors. However, physical IPV strongly rebounded after the policy reversal and overshot to a level higher than in the pre-policy period. We identify an implied change in the composition of household alcohol consumption before, during, and after the policy period and varying alcohol tolerance at different levels of alcohol intake as the underlying drivers of the intended and unintended impact of the temporary policy on physical IPV in the short and long term.</details>
+<details>
+<summary>Abstract (click to expand)</summary>
+This paper analyzes the short- and long-term effects of a partial liquor ban in Kerala, India, from 2014-2017 on women's experience with intimate partner violence (IPV). Leveraging neighbor states that are comparable and sufficiently isolated in our context as the comparison group, we employ difference-in-differences and event-study approaches to identify the causal effects of a policy that shuts down hard liquor-serving local bars. We find that the likelihood of experiencing physical IPV decreased during the policy period only in high-wealth households, the primary consumers of expensive hard liquors. However, physical IPV strongly rebounded after the policy reversal and overshot to a level higher than in the pre-policy period. We identify an implied change in the composition of household alcohol consumption before, during, and after the policy period and varying alcohol tolerance at different levels of alcohol intake as the underlying drivers of the intended and unintended impact of the temporary policy on physical IPV in the short and long term.
+</details>
 
 ---
 
 ## Selected Work in Progress
 
-**<font size="+.5">Foreign Direct Investment and Monopsony</font>** <br />
+**<font size="+.75">Foreign Direct Investment and Monopsony</font>** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), [Anh Nguyen](https://sites.google.com/view/anhptnguyen/) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-**<font size="+.5">On the Intra-Household Public Goods and Fertility Trade-Off</font>** <br />
+**<font size="+.75">On the Intra-Household Public Goods and Fertility Trade-Off</font>** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
 
 ## Reports
 
-**<font size="+.5">Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia</font>** <br />
+**<font size="+.75">Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia</font>** <br />
 (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/))
 
-**<font size="+.5">The Price Elasticity of Electricity Demand in the Republic of Georgia</font>** <br />
+**<font size="+.75">The Price Elasticity of Electricity Demand in the Republic of Georgia</font>** <br />
 (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
 
 ## Discussions
 
-**<font size="+.5">Global Labor Market Power</font>** <br />
+**<font size="+.75">Global Labor Market Power</font>** <br />
 (by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio) <br />
 North East Universities Development Consortium (NEUDC), 2024 <br />
 [Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)
 
-**<font size="+.5">Family Planning and the Female Labor Supply: Evidence from Urban Malawi</font>** <br />
+**<font size="+.75">Family Planning and the Female Labor Supply: Evidence from Urban Malawi</font>** <br />
 (by Mahesh Karra, Daniel Maggio, and David Canning) <br />
 Midwest International Economic Development Conference (MWIEDC), 2023 <br />
 [Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf) <br />
@@ -95,7 +105,7 @@ Midwest International Economic Development Conference (MWIEDC), 2023 <br />
 
 ## Teaching
 
-**<font size="+.5">Teaching Assistant at Cornell</font>**
+**<font size="+.75">Teaching Assistant at Cornell</font>**
 
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
@@ -104,7 +114,7 @@ Midwest International Economic Development Conference (MWIEDC), 2023 <br />
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
 
-**<font size="+.5">Teaching Award</font>**
+**<font size="+.75">Teaching Award</font>**
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
