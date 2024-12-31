@@ -22,7 +22,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 ## Publications
 
-**<h3>[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)</h3>** <br />
+**[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Volume 222, June 2024, Pages 240-265 <br />
 [Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf) <br />
@@ -38,13 +38,13 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Working Papers
 
-**Public Works Program, Labor Supply, and Monopsony** (Draft available upon request) <br />
+**[Public Works Program, Labor Supply, and Monopsony]()** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
 **[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
  (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
 
-**Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal** (Draft available upon request) <br />
+**[Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal]()** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
