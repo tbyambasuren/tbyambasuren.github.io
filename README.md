@@ -24,7 +24,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265
 <details>
-<summary>Abstract (click to expand)</summary>
+<summary><i>Abstract (click to expand)<i></summary>
 How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.
 </details>
 
