@@ -20,7 +20,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 
 ## Publications
 
-**[<font size="+10">Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
+**[<font size="+1">Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265 <br />
 <details><summary>[Abstract (click to expand)]()</summary>
