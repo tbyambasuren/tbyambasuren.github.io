@@ -1,5 +1,7 @@
 ## Bio
 
+<h2>Bio</h2>
+
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
 
 My current research focuses on studying the labor market power and its sources, such as threats from automation technologies, labor market policies, and foreign capital and trade liberalization in developed and developing countries. I am also interested in studying the effects of various economic and policy shocks on intrahousehold bargaining power and intimate partner violence in developing countries.
