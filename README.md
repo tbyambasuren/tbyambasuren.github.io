@@ -53,6 +53,7 @@ This paper studies the role of automation threat in firms’ labor market power.
 <summary>Abstract (click to expand)</summary>
 We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—ratio of MRPL to wages, is a weighted average of markdowns over diﬀerent workers. We test the model using India's National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs and potentially creates variation in workforce composition in manufacturing firms as a natural experiment. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturers by reducing the employment of mobile workers and leaving immobile workers withlow laborsupply elasticityemployed atmanufacturing firms.
 </details>
+<br />
 
 **[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
 (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
