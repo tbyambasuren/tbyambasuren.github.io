@@ -8,6 +8,8 @@ My current research focuses on studying the labor market power and its sources, 
 
 Fields: Labor Economics, Development Economics
 
+---
+
 ## Contact
 
 Email: [tb497@cornell.edu](tb497@cornell.edu)
