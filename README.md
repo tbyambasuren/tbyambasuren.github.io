@@ -81,7 +81,7 @@ This paper analyzes the short- and long-term effects of a partial liquor ban in 
 
 ---
 
-## Reports
+## Selected Other Works
 
 **Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia** <br />
 (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/))
