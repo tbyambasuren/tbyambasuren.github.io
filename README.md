@@ -23,7 +23,7 @@ Twitter/X: [@tsenguunjav](@tsenguunjav)
 **[<font size="+1">Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 *Journal of Economic Behavior and Organization*, Vol. 222, June 2024, 240-265 <br />
-<details>[<summary>Abstract (click to expand)</summary>]()
+<details><summary>Abstract (click to expand)</summary>
 How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.</details>
 
 [Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf) <br />
@@ -33,53 +33,53 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Job Market Paper
 
-**[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
+**[<font size="+1">Automation Threat and Labor Market Power</font>](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)**
 
 ---
 
 ## Working Papers
 
-**[Public Works Program, Labor Supply, and Monopsony]()** <br />
+**[<font size="+1">Public Works Program, Labor Supply, and Monopsony</font>]()** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-**[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
+**[<font size="+1">Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)** <br />
  (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
 
-**[Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal]()** <br />
+**[<font size="+1">Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal</font>]()** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
 
 ## Selected Work in Progress
 
-**Foreign Direct Investment and Monopsony** <br />
+**<font size="+1">Foreign Direct Investment and Monopsony</font>** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), [Anh Nguyen](https://sites.google.com/view/anhptnguyen/) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-**On the Intra-Household Public Goods and Fertility Trade-Off** <br />
+**<font size="+1">On the Intra-Household Public Goods and Fertility Trade-Off</font>** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
 ---
 
 ## Reports
 
-**Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia** <br />
+**<font size="+1">Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia</font>** <br />
 (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/))
 
-**The Price Elasticity of Electricity Demand in the Republic of Georgia** <br />
+**<font size="+1">The Price Elasticity of Electricity Demand in the Republic of Georgia</font>** <br />
 (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
 
 ## Discussions
 
-**Global Labor Market Power** <br />
+**<font size="+1">Global Labor Market Power</font>** <br />
 (by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio) <br />
-2024 North East Universities Development Consortium (NEUDC) (Northeastern University) <br />
+North East Universities Development Consortium (NEUDC), 2024 <br />
 [Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)
 
-**Family Planning and the Female Labor Supply: Evidence from Urban Malawi** <br />
+**<font size="+1">Family Planning and the Female Labor Supply: Evidence from Urban Malawi</font>** <br />
 (by Mahesh Karra, Daniel Maggio, and David Canning) <br />
-2023 Midwest International Economic Development Conference (MWIEDC) (University of Houston) <br />
+Midwest International Economic Development Conference (MWIEDC), 2023 <br />
 [Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf) <br />
 [Write-up with more details](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023_Details.pdf)
 
@@ -87,7 +87,7 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Teaching
 
-**Teaching Assistant at Cornell**
+**<font size="+1">Teaching Assistant at Cornell</font>**
 
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
@@ -96,7 +96,7 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
 
-**Teaching Award**
+**<font size="+1">Teaching Award</font>**
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
