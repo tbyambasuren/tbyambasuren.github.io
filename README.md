@@ -1,5 +1,3 @@
-## Bio
-
 <h2>Bio</h2>
 
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
