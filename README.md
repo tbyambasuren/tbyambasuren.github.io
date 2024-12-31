@@ -6,7 +6,7 @@ My current research focuses on studying the labor market power and its sources, 
 
 **[CV](https://tbyambasuren.github.io/cv/byambasuren_cvweb.pdf)** (Updated December 2024)
 
-Fields: Labor Economics, Development Economics
+**[Fields:]()** Labor Economics, Development Economics
 
 ---
 
@@ -86,7 +86,8 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 
 ## Teaching
 
-**Teaching Assistant at Cornell** <br />
+**Teaching Assistant at Cornell**
+
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
 * Applied Managerial Economics (Undergraduate, AEM 4100), Professor Terence Alexander, Fall 2022/2023
@@ -94,7 +95,8 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
 
-**Teaching Award** <br />
+**Teaching Award**
+
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
 
