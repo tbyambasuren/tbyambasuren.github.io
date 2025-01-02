@@ -1,6 +1,6 @@
 <h2>Bio</h2>
 
-{% include toc.html html=text %}
+{% include toc.html html=Bio %}
 
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
 
