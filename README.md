@@ -1,5 +1,7 @@
 <h2>Bio</h2>
 
+{% include toc.html html=text %}
+
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
 
 My current research focuses on studying the labor market power and its sources, such as threats from automation technologies, labor market policies, and foreign capital and trade liberalization in developed and developing countries. I am also interested in studying the effects of various economic and policy shocks on intrahousehold bargaining power and intimate partner violence in developing countries.
@@ -113,9 +115,6 @@ Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, sched
 **<strong style="font-size:16px;">Teaching Award</strong>**
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
-
-{% include toc.html html=text %}
-
 
 
 
