@@ -114,6 +114,7 @@ Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, sched
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
+{% include toc.html html=text %}
 
 
 
