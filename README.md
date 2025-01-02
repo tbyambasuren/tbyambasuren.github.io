@@ -21,7 +21,7 @@ Ithaca, NY 14853 <br />
 
 ## Publications
 
-**[<font size+1>Cooking Fuel Choice and Child Mortality in India</font>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** ([Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)) <br />
+**[<strong style="font-size:35px;">Cooking Fuel Choice and Child Mortality in India</strong>](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)** ([Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)) <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
 ***Journal of Economic Behavior and Organization***, Vol. 222, June 2024, 240-265
 
