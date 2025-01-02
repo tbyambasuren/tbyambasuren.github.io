@@ -83,7 +83,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, scheduled), 2025 World Bank Poverty Retreat (Washington, DC, co-author, scheduled)
 
-**<strong style="font-size:16px;">The Price Elasticity of Electricity Demand in the Republic of Georgia</strong>** <br />
+**<strong style="font-size:16px;">Electricity Tariffs and Household Well-being in the Republic of Georgia</strong>** <br />
 (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
