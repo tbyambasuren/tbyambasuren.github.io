@@ -1,4 +1,6 @@
 title: Tsenguunjav Byambasuren
+markdown: kramdown
+{:toc}
 logo: /assets/img/headshot.png
 theme: jekyll-theme-minimal
 github:
