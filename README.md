@@ -32,7 +32,8 @@ Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cookin
 ## Job Market Paper
 
 **[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)** <br />
-Abstract: This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition.
+Abstract: This paper studies the role of automation threat in firms’ labor market power. I estimate the wage markdown—the wedge between the marginal revenue product of labor and the wage—to show that firms set wages in German manufacturing, where the labor market is characterized by moderately flexible industry-region, occupation group, and firm-level collective bargaining; the average worker receives 79 cents on the marginal euro. Using the estimated wage markdowns and automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share push factors, I find that the automation threat has occupation and region-specific effects on labor market power. Robot exposure increases employer power over routine task-performing workers who face the highest risk of displacement by industrial robots in regions with low union coverage in East Germany, which has spatial frictions and historically weaker worker protections. The key results are consistent with qualitative predictions from the wage bargaining model with heterogeneous workers where employers retain the "right-to-manage" their workforce composition. <br />
+Presentations: 2025 AEA/ASSA Annual Meeting (scheduled), 2025 IAB PhD Workshop (scheduled), 2024 EALE Conference, 2024 EEA-ESEM Annual Meeting, 2024 SOLE Annual Meeting, 2023 IZA Summer School in Labor Economics
 
 ---
 
@@ -54,7 +55,7 @@ Abstract: This paper analyzes the short- and long-term effects of a partial liqu
 
 ## Selected Work in Progress
 
-**Foreign Direct Investment and Monopsony** <br />
+**Capital Market Integration, Monopsony Power, and Gender** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), [Anh Nguyen](https://sites.google.com/view/anhptnguyen/) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
 **On the Intra-Household Public Goods and Fertility Trade-Off** <br />
