@@ -19,6 +19,16 @@ Ithaca, NY 14853 <br />
 
 ---
 
+## Job Market Paper
+
+**<strong style="font-size:16px;">[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)</strong>**
+
+Abstract: This paper studies the role of automation threat in the firm’s labor market power. Employing the production function approach, I estimate wage markdown to show that an average worker in German manufacturing receives 79 cents on the marginal euro. Using automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share factors, I find that automation threat increases markdowns over routine workers in areas with weaker labor protection in East Germany, which has spatial frictions. The key results are consistent with predictions from the wage bargaining model with heterogeneous workers where employers retain the “right-to-manage” their workforce composition. <br />
+
+Presentations: 2025 AEA Annual Meeting (scheduled), 2025 IAB PhD Workshop (scheduled), 2024 EALE Conference, 2024 EEA Annual Meeting, 2024 SOLE Annual Meeting, 2023 IZA Summer School in Labor Economics
+
+---
+
 ## Publication
 
 **<strong style="font-size:16px;">[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)</strong>** ([Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)) <br />
@@ -28,16 +38,6 @@ Ithaca, NY 14853 <br />
 Abstract: How serious is indoor air pollution (IAP) as a threat to infants and children? This paper estimates the impact of cooking fuel choice – a predominant source of IAP – on under-five mortality in India, where reliance on biomass fuels such as firewood, animal dung, and agricultural waste is pervasive. Leveraging forest cover and agricultural land ownership for identification and nationally representative data, we find that solid fuel use for cooking significantly increases the child mortality rate - mainly driven by neonatal mortality in the first 28 days after birth. The mortality effect is higher for girls than boys and is magnified in relatively small households where there is limited scope for the division of labor between childcare and cooking responsibilities. Among polluting fuels, we find that biomass fuels drive the impact of polluting fuel use on child mortality.
 
 Media: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dirty-cooking-fuels-pose-major-threat-infants-india), [The Hindu](https://www.thehindu.com/sci-tech/health/dirty-cooking-fuels-threaten-infants-in-india-says-us-study/article68383612.ece), [The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/dirty-cooking-fuels-pose-major-threat-to-infants-in-india/articleshow/111584763.cms), [Times Now](https://www.timesnownews.com/health/study-says-dirty-cooking-fuels-poses-a-risk-to-infant-health-in-india-article-111598768), [Press Trust of India](https://www.ptinews.com/story/international/27-of-every-1-000-babies-and-children-die-due-to-exposure-to-dirty-cooking-fuels-in-india-claims-report/1642146), [Medical Xpress](https://medicalxpress.com/news/2024-07-dirty-cooking-fuels-pose-major.html)
-
----
-
-## Job Market Paper
-
-**<strong style="font-size:16px;">[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)</strong>**
-
-Abstract: This paper studies the role of automation threat in the firm’s labor market power. Employing the production function approach, I estimate wage markdown to show that an average worker in German manufacturing receives 79 cents on the marginal euro. Using automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share factors, I find that automation threat increases markdowns over routine workers in areas with weaker labor protection in East Germany, which has spatial frictions. The key results are consistent with predictions from the wage bargaining model with heterogeneous workers where employers retain the “right-to-manage” their workforce composition. <br />
-
-Presentations: 2025 AEA Annual Meeting (scheduled), 2025 IAB PhD Workshop (scheduled), 2024 EALE Conference, 2024 EEA Annual Meeting, 2024 SOLE Annual Meeting, 2023 IZA Summer School in Labor Economics
 
 ---
 
