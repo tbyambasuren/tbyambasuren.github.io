@@ -19,7 +19,7 @@ Ithaca, NY 14853 <br />
 
 ---
 
-## Publications
+## Publication
 
 **<strong style="font-size:16px;">[Cooking Fuel Choice and Child Mortality in India](https://www.sciencedirect.com/science/article/pii/S0167268124001422?via%3Dihub)</strong>** ([Slides](https://tbyambasuren.github.io/papers/IAP/IAP_ChildMortality_slides.pdf)) <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/), [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)) <br />
@@ -46,17 +46,23 @@ Presentations: 2025 AEA Annual Meeting (scheduled), 2025 IAB PhD Workshop (sched
 **<strong style="font-size:16px;">Public Works Program, Labor Supply, and Monopsony</strong>** <br />
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
-Abstract: We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—ratio of MRPL to wages, is a weighted average of markdowns over diﬀerent workers. We test the model using India's National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs and potentially creates variation in workforce composition in manufacturing firms as a natural experiment. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturers by reducing the employment of mobile workers and leaving immobile workers withlow laborsupply elasticityemployed atmanufacturing firms.
+Abstract: We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—ratio of MRPL to wages, is a weighted average of markdowns over diﬀerent workers. We test the model using India's National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs and potentially creates variation in workforce composition in manufacturing firms as a natural experiment. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturers by reducing the employment of mobile workers and leaving immobile workers withlow laborsupply elasticityemployed atmanufacturing firms. <br />
+
+Presentations: 2025 UNU-WIDER Development Conference (scheduled), 2024 ISI Delhi Annual Conference (co-author), 2024 NEUDC
 
 **<strong style="font-size:16px;">[Artisanal Mining and Intimate Partner Violence in Sub-Saharan Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)</strong>** <br />
 (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
 
-Abstract: This paper investigates the impacts of artisanal gold mining—the primary form of labor-intensive small-scale mining with hand tools—on intimate partner violence (IPV) against women in Sub-Saharan Africa, where female artisanal miners constitute a significant portion of the workforce. Exploiting cell-level spatial variation in gold suitability and an exogenous variation in international gold price for identification, we estimate the causal effects of artisanal gold mining conditional on industrial gold mines and other environmental shocks. Based on nationally representative data covering over 30 countries from the region, we find that less severe physical IPV experienced less frequently by women decreases mainly due to improvement in women’s bargaining power enhanced by an increase in their earning potential from extractive and sales or retail activities relative to husbands in response to the increased profitability of artisanal mining. The IPV-reducing short-run effects of artisanal gold mining, which are opposite from the impacts of industrial gold mining, tend to persist in the long term as its driving forces sustain over time. However, sexual IPV generally increases due to artisanal and industrial gold mining.
+Abstract: This paper investigates the impacts of artisanal gold mining—the primary form of labor-intensive small-scale mining with hand tools—on intimate partner violence (IPV) against women in Sub-Saharan Africa, where female artisanal miners constitute a significant portion of the workforce. Exploiting cell-level spatial variation in gold suitability and an exogenous variation in international gold price for identification, we estimate the causal effects of artisanal gold mining conditional on industrial gold mines and other environmental shocks. Based on nationally representative data covering over 30 countries from the region, we find that less severe physical IPV experienced less frequently by women decreases mainly due to improvement in women’s bargaining power enhanced by an increase in their earning potential from extractive and sales or retail activities relative to husbands in response to the increased profitability of artisanal mining. The IPV-reducing short-run effects of artisanal gold mining, which are opposite from the impacts of industrial gold mining, tend to persist in the long term as its driving forces sustain over time. However, sexual IPV generally increases due to artisanal and industrial gold mining. <br />
+
+Presentations: 2024 Africa Meeting of the Econometric Society, 2024 MWIEDC, 2024 CSAE Conference (co-author), 2024 PacDev (co-author), 2024 CEPR-STEG Annual Conference
 
 **<strong style="font-size:16px;">Alcohol Ban and Intimate Partner Violence: Long-term Consequences of Policy Reversal</strong>** <br />
 (with [Arnab K. Basu](https://business.cornell.edu/faculty-research/faculty/ab362/) and [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home))
 
-Abstract: This paper analyzes the short- and long-term effects of a partial liquor ban in Kerala, India, from 2014-2017 on women's experience with intimate partner violence (IPV). Leveraging neighbor states that are comparable and sufficiently isolated in our context as the comparison group, we employ difference-in-differences and event-study approaches to identify the causal effects of a policy that shuts down hard liquor-serving local bars. We find that the likelihood of experiencing physical IPV decreased during the policy period only in high-wealth households, the primary consumers of expensive hard liquors. However, physical IPV strongly rebounded after the policy reversal and overshot to a level higher than in the pre-policy period. We identify an implied change in the composition of household alcohol consumption before, during, and after the policy period and varying alcohol tolerance at different levels of alcohol intake as the underlying drivers of the intended and unintended impact of the temporary policy on physical IPV in the short and long term.
+Abstract: This paper analyzes the short- and long-term effects of a partial liquor ban in Kerala, India, from 2014-2017 on women's experience with intimate partner violence (IPV). Leveraging neighbor states that are comparable and sufficiently isolated in our context as the comparison group, we employ difference-in-differences and event-study approaches to identify the causal effects of a policy that shuts down hard liquor-serving local bars. We find that the likelihood of experiencing physical IPV decreased during the policy period only in high-wealth households, the primary consumers of expensive hard liquors. However, physical IPV strongly rebounded after the policy reversal and overshot to a level higher than in the pre-policy period. We identify an implied change in the composition of household alcohol consumption before, during, and after the policy period and varying alcohol tolerance at different levels of alcohol intake as the underlying drivers of the intended and unintended impact of the temporary policy on physical IPV in the short and long term. <br />
+
+Presentations: 2023 MWIEDC, 2023 PacDev, 2022 ISI Delhi Conference, 2022 APPAM Fall Research Conference, 2022 WEAI Annual Conference
 
 ---
 
@@ -83,12 +89,10 @@ Abstract: This paper analyzes the short- and long-term effects of a partial liqu
 ## Discussions
 
 **<strong style="font-size:16px;">Global Labor Market Power</strong>** ([Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)) <br />
-(by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio) <br />
-North East Universities Development Consortium (NEUDC), 2024
+(by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio), 2024 NEUDC
 
 **<strong style="font-size:16px;">Family Planning and the Female Labor Supply: Evidence from Urban Malawi</strong>** ([Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf)) ([Details](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023_Details.pdf)) <br />
-(by Mahesh Karra, Daniel Maggio, and David Canning) <br />
-Midwest International Economic Development Conference (MWIEDC), 2023
+(by Mahesh Karra, Daniel Maggio, and David Canning), 2023 MWIEDC
 
 ---
 
