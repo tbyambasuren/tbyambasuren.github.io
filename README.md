@@ -1,5 +1,5 @@
 <h2>Bio</h2>
-****(Under construction!)****
+(Under construction!)
 
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
 
