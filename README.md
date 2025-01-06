@@ -1,4 +1,4 @@
-<h2>Bio</h2> <br />
+<h2>Bio</h2>
 (Under construction!)
 
 I am a Ph.D. Candidate in Applied Economics at Cornell University.
