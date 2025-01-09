@@ -92,29 +92,25 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 ## Selected Other Works
 
-**<strong style="font-size:16px;">Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia</strong>**, World Bank Policy Research Working Paper, Forthcoming <br />
-(with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)) <br />
+**Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia**, World Bank Policy Research Working Paper, Forthcoming (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)) <br />
 
 Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, scheduled), 2025 World Bank Poverty Retreat (Washington, DC, co-author, scheduled)
 
-**<strong style="font-size:16px;">Electricity Tariffs and Household Well-being in the Republic of Georgia</strong>** <br />
-(with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
+**Electricity Tariffs and Household Well-being in the Republic of Georgia** (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
 
 ## Discussions
 
-**<strong style="font-size:16px;">Global Labor Market Power</strong>** ([Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)) <br />
-(by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio), 2024 North East Universities Development Consortium (NEUDC) (Northeastern University)
+**Global Labor Market Power** ([Slides](https://tbyambasuren.github.io/discussion/ABBDD_NEUDC_2024.pdf)) (by F. Amodio, E. Brancati, P. Brummund, N. de Roux, and M. Di Maio), 2024 North East Universities Development Consortium (NEUDC) (Northeastern University)
 
-**<strong style="font-size:16px;">Family Planning and the Female Labor Supply: Evidence from Urban Malawi</strong>** ([Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf)) ([Details](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023_Details.pdf)) <br />
-(by Mahesh Karra, Daniel Maggio, and David Canning), 2023 Midwest International Economic Development Conference (MWIEDC) (University of Houston)
+**Family Planning and the Female Labor Supply: Evidence from Urban Malawi** ([Slides](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023.pdf)) ([Details](https://tbyambasuren.github.io/discussion/KMC_MWIEDC_2023_Details.pdf)) (by Mahesh Karra, Daniel Maggio, and David Canning), 2023 Midwest International Economic Development Conference (MWIEDC) (University of Houston)
 
 ---
 
 ## Teaching
 
-**<strong style="font-size:16px;">Teaching Assistant at Cornell</strong>**
+**Teaching Assistant at Cornell**
 
 * Introduction to Macroeconomic Theory and Policy (Undergraduate, AEM 1300), Professor Arnab K. Basu, Summer 2024
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor Arnab K. Basu, Spring 2022/2023/2024
@@ -123,7 +119,7 @@ Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, sched
 * International Trade and Finance (Undergraduate, AEM/ECON 2300), Professor David R. Lee, Spring 2021
 * Consumer Behavior (Undergraduate, AEM 3440), Professor Alison Shields, Spring 2020
 
-**<strong style="font-size:16px;">Teaching Award</strong>**
+**Teaching Award**
 
 * Dyson Graduate Teaching Assistant - Outstanding Service Award, 2024
 
