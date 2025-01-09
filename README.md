@@ -92,7 +92,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 ## Selected Other Works
 
-**Exploring Geospatial-based Approaches to Develop a Pre-Census National Sampling Frame in Armenia**, World Bank Policy Research Working Paper, Forthcoming (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)) <br />
+**Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia**, World Bank Policy Research Working Paper, Forthcoming (with [Saida Ismailakhunova](https://business.cornell.edu/faculty-research/faculty/ab362/), [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)) <br />
 
 Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, scheduled), 2025 World Bank Poverty Retreat (Washington, DC, co-author, scheduled)
 
