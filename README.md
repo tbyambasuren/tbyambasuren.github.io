@@ -31,7 +31,7 @@ This paper studies the role of automation threat in the firm’s labor market po
 
 <details>
 <summary>Presentations (click to expand)</summary>
-2025 American Economic Association (AEA) Annual Meeting (San Francisco CA, scheduled), 2025 IAB PhD Workshop (Nuremberg, Germany, scheduled), 2024 Applied Economics and Policy Seminar (Cornell University), 2024 European Association for Labour Economists (EALE) Conference (Norwegian School of Economics), 2024 European Economic Association (EEA) Annual Meeting (Erasmus School of Economics), 2024 Society of Labor Economists (SOLE) Annual Meeting (Portland, OR), 2023 IZA Summer School in Labor Economics (Berlin, Germany)
+2025 American Economic Association (AEA) Annual Meeting (San Francisco CA, scheduled), 2025 IAB PhD Workshop (Nuremberg, Germany, scheduled), 2024 Applied Economics and Policy Seminar (Cornell University), 2024 European Association for Labour Economists (EALE) Conference (Norwegian School of Economics), 2024 European Economic Association (EEA) Annual Meeting (Erasmus School of Economics), 2024 Society of Labor Economists (SOLE) Annual Meeting (Portland, OR), 2023 IZA Summer School in Labor Economics (Berlin, Germany) <br />
 </details>
 
 ---
