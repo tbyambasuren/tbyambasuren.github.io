@@ -24,15 +24,9 @@ Ithaca, NY 14853 <br />
 
 **<strong style="font-size:16px;">[Automation Threat and Labor Market Power](https://tbyambasuren.github.io/papers/JMP/Byambasuren_JMP.pdf)</strong>**
 
-<details>
-<summary>Abstract (click to expand)</summary>
-This paper studies the role of automation threat in the firm’s labor market power. Employing the production function approach, I estimate wage markdown to show that an average worker in German manufacturing receives 79 cents on the marginal euro. Using automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share factors, I find that automation threat increases markdowns over routine workers in areas with weaker labor protection in East Germany, which has spatial frictions. The key results are consistent with predictions from the wage bargaining model with heterogeneous workers where employers retain the “right-to-manage” their workforce composition.
-</details>
+Abstract: This paper studies the role of automation threat in the firm’s labor market power. Employing the production function approach, I estimate wage markdown to show that an average worker in German manufacturing receives 79 cents on the marginal euro. Using automation threat proxied by exposure of local labor market regions to industrial robots instrumented by plausibly exogenous shift-share factors, I find that automation threat increases markdowns over routine workers in areas with weaker labor protection in East Germany, which has spatial frictions. The key results are consistent with predictions from the wage bargaining model with heterogeneous workers where employers retain the “right-to-manage” their workforce composition. <br />
 
-<details>
-<summary>Presentations (click to expand)</summary>
-2025 American Economic Association (AEA) Annual Meeting (San Francisco CA, scheduled), 2025 IAB PhD Workshop (Nuremberg, Germany, scheduled), 2024 Applied Economics and Policy Seminar (Cornell University), 2024 European Association for Labour Economists (EALE) Conference (Norwegian School of Economics), 2024 European Economic Association (EEA) Annual Meeting (Erasmus School of Economics), 2024 Society of Labor Economists (SOLE) Annual Meeting (Portland, OR), 2023 IZA Summer School in Labor Economics (Berlin, Germany)
-</details>
+Presentations: 2025 American Economic Association (AEA) Annual Meeting (San Francisco CA, scheduled), 2025 IAB PhD Workshop (Nuremberg, Germany, scheduled), 2024 Applied Economics and Policy Seminar (Cornell University), 2024 European Association for Labour Economists (EALE) Conference (Norwegian School of Economics), 2024 European Economic Association (EEA) Annual Meeting (Erasmus School of Economics), 2024 Society of Labor Economists (SOLE) Annual Meeting (Portland, OR), 2023 IZA Summer School in Labor Economics (Berlin, Germany)
 
 ---
 
