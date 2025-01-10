@@ -90,7 +90,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 ---
 
-## Selected Other Work
+## Selected Policy Papers
 
 **Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia**, World Bank Policy Research Working Paper, Forthcoming (with Saida Ismailakhunova, [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)) <br />
 
