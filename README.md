@@ -80,7 +80,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 (with [Nancy H. Chau](https://sites.google.com/view/nancyhchau/home), [Anh Nguyen](https://sites.google.com/view/anhptnguyen/) and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
 **<strong style="font-size:16px;">Rural Roads and Monopsony Power</strong>** <br />
-(with [Vidhya Soundararajan](https://www.vidhyasrajan.com/) and Ananyo Brahma)
+(with Ananyo Brahma and [Vidhya Soundararajan](https://www.vidhyasrajan.com/))
 
 **<strong style="font-size:16px;">Services Trade Liberalization and Labor Market Power in Vietnam</strong>** <br />
 (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
