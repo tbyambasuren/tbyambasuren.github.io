@@ -90,7 +90,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 **Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia** (with Saida Ismailakhunova, [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)), ***World Bank Policy Research Working Paper***, Forthcoming. <br />
 
-Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, scheduled), 2025 World Bank Poverty Retreat (Washington, DC, co-author, scheduled)
+Presentations: 2025 ISI World Statistics Congress (The Hague, Netherlands, scheduled), 2025 World Bank Poverty Retreat (Washington, DC, co-author)
 
 **Electricity Tariffs and Household Wellbeing in the Republic of Georgia** (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
