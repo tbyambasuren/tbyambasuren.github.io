@@ -88,7 +88,8 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 
 ## Selected Policy Papers
 
-**[Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia](https://bit.ly/4jlwOQN)** (with Saida Ismailakhunova, [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)), World Bank Policy Research Working Paper 11039, January 2025.
+**[Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia](https://bit.ly/4jlwOQN)** (with Saida Ismailakhunova, [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)), World Bank Policy Research Working Paper 11039, January 2025. <br />
+* Media coverage: [Devdiscourse](https://www.devdiscourse.com/article/technology/3228157-bridging-the-divide-ais-impact-on-human-interaction)
 
 **Electricity Tariffs and Household Wellbeing in the Republic of Georgia** (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
