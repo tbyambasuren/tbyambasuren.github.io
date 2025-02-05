@@ -9,7 +9,7 @@ My current research focuses on studying the labor market power and its sources, 
 
 **[Fields:]()** Labor Economics, Development Economics
 
-I am on the 2024-2025 academic job market.
+I am on the 2024-2025 economics job market.
 
 ---
 
