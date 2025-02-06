@@ -52,7 +52,7 @@ Media coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2024/06/dir
 
 Abstract: We propose a theory to show that a firm’s wage markdown, a measure of monopsony power—the ratio of MRPL to wages, is a weighted average of markdowns over different workers and that labor supply shock affects the average markdowns via changing the workforce composition. We test the model using India’s National Rural Employment Guarantee Act (NREGA) program, which generates non-manufacturing jobs in rural villages and creates variation in employment structure in manufacturing firms. Consistent with the model predictions, we empirically find that the program leads to higher average wage markdowns at manufacturing firms by attracting mobile workers potentially with rural origin into the rural non-manufacturing firms and leaving immobile workers with low labor supply elasticity employed at manufacturing firms. <br />
 
-Presentations: 2025 UNU-WIDER Development Conference (Helsinki, Finland, scheduled), 2024 Annual Conference on Economic Growth and Development (Indian Statistical Institute, New Delhi, co-author), 2024 North East Universities Development Consortium (NEUDC) (Northeastern University)
+Presentations: 2025 UNU-WIDER Development Conference (Helsinki, Finland, co-author, scheduled), 2024 Annual Conference on Economic Growth and Development (Indian Statistical Institute, New Delhi, co-author), 2024 North East Universities Development Consortium (NEUDC) (Northeastern University)
 
 **<strong style="font-size:16px;">[Artisanal Mining, Female Empowerment, and Intimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000014)</strong>** <br />
 (with [Anh Nguyen](https://sites.google.com/view/anhptnguyen/))
