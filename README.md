@@ -85,7 +85,7 @@ Presentations: 2023 Midwest International Economic Development Conference (MWIED
 **[Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099435501162526801/idu17ba04f391e88314e911adea11672ad0a4d86)** (with Saida Ismailakhunova, [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/) and [Sarchil Qader](https://www.worldpop.org/team/sarchil_qader/)), World Bank Policy Research Working Paper 11039, January 2025.
 * Media coverage: [Devdiscourse](https://www.devdiscourse.com/article/technology/3228157-bridging-the-divide-ais-impact-on-human-interaction)
 
-**Electricity Tariffs and Household Well-being in the Republic of Georgia** (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
+**Electricity Tariffs and Household Well-Being in the Republic of Georgia** (with [Avralt-Od Purevjav](https://www.avraltodpurevjav.com/))
 
 ---
 
