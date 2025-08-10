@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Joonas Tuhkuri"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+publishDir = "docs"
+
+[params]
+    shortbio = "Assistant Professor of Economics, Stockholm University"
+    logo = "jt.jpg"
