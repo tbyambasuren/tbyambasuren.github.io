@@ -1,0 +1,44 @@
+works:
+
+- title: "Winners and Losers of Technology Grants"
+  pdflink: "/pdf/machines.pdf"
+  coauthors: "Johannes Hirvonen and Aapo Stenhammar"
+  book: "under revision for the Quarterly Journal of Economics"
+  note: "Last Updated: June 2025"
+  links:
+    - url: "/pdf/machines-slides.pdf"
+      text: "Slides"
+    - url: "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs"
+      text: "Featured in The Economist"
+  abstract: >
+      We present new evidence on the impact of EU technology subsidies on employment and skill mix in Finnish small- and medium-sized manufacturing firms from 1994 to 2018. The subsidies funded new machinery, including robots. Comparing closely matched grant winners and losers, we find that subsidized investments increased employment without changing the skill composition. We use machine learning on application texts to match firms based on their evaluation reports. We then analyze firms’ stated plans and show that the subsidies primarily supported expansion—such as launching new products—rather than automating work. In contrast, in a broader sample of manufacturing firms outside the program, we find that IT investments are more strongly associated with skill upgrading than machinery investments, consistent with different technologies shaping skill demand in different ways. Our findings suggest that these grants created opportunities for non-college-educated workers.
+      
+- title: "Evolving Returns to Personality"
+  pdflink: "/pdf/stereotypes.pdf"
+  coauthors: "Ramin Izadi"
+  book: "accepted at the Journal of Labor Economics"
+  note: "Last Updated: July 2024"
+  links:
+    - url: "https://marginalrevolution.com/marginalrevolution/2021/11/tuesday-assorted-links-339.html"
+      text: "Featured in Marginal Revolution"
+  abstract: >
+      We analyze trends in labor-market returns to psychological traits using data from half a million Finnish men from 2001 to 2015. Cognitive skills' value declined, while noncognitive skills' value increased. Our novel findings show that extraversion drives this rise, while conscientiousness remains stable. Extraversion's rising returns are most pronounced for lower earners and those on the employment margin. These traits predict different labor market paths: extraversion predicts lower education and more work experience, while cognitive ability and conscientiousness lead to higher education and high-paying jobs.
+
+- title: "Psychological Traits and Adaptation in the Labor Market"
+  pdflink: "/pdf/adaptation.pdf"
+  coauthors: "Ramin Izadi"
+  note: "Last Updated: February 2023"
+  links:
+    - url: "https://marginalrevolution.com/marginalrevolution/2021/11/tuesday-assorted-links-339.html"
+      text: "Featured in Marginal Revolution"
+  abstract: >
+       Labor markets are in constant change. Which personality traits and skills help workers to deal with a changing environment? This paper documents how responses to labor-market shocks vary by individuals’ psychological traits. We construct measures of cognitive ability, extraversion, and conscientiousness using standardized personality and cognitive tests administered during military service to 79% of Finnish men born 1962–1979. We analyze establishment closures and mass layoffs between 1995–2010 and document heterogeneous responses to the shock. Extraversion is the strongest predictor of adaptation: the negative effect of a mass layoff on earnings is 20% smaller for those with one standard deviation higher scores of extraversion. Conscientiousness appears to have no differential impact conditional on other traits. Cognitive ability and education predict a significantly smaller initial drop in earnings but have no long-term advantage. Our findings appear to be driven directly by smaller dis-employment effects: extraverted and high cognitive-ability individuals find re-employment faster in a similar occupation and industry they worked in before. Extraversion’s adaptive value is robust to controlling for pre-shock education, occupation, and industry, which rules out selection into different careers as the driving mechanism. Extraverts are slightly more likely to retain employment in their current establishment during a mass layoff event, but the retention effect is not large enough to explain the smaller earnings drop.
+
+- title: "The Surprising Intergenerational Effects of Manufacturing Decline"
+  pdflink: "/pdf/children.pdf"
+  note: "Last Updated: February 2023"
+  links:
+    - url: "/pdf/children-slides.pdf"
+      text: "Slides with more detailed results"
+  abstract: >
+       This paper analyzes the impact of manufacturing decline on children. To do so, it considers local employment structure—characterizing lost manufacturing jobs and left-behind places—high-school dropout rates, and college access in the US over 1990–2010. To establish a basis for causal inference, the paper uses variations in trade exposure from China, following its entry to the WTO, as an instrument for manufacturing decline in the US. While the literature on job loss has emphasized negative effects on children, the main conclusion of this research is that the rapid US manufacturing decline decreased high-school dropout rates and possibly increased college access. The magnitudes of the estimates suggest that for every 3-percentage-point decline in manufacturing as a share of total employment, the high-school dropout rate declined by 1 percentage point. The effects are largest in the areas with high racial and socioeconomic segregation and in those with larger African American populations. The results are consistent with the idea that the manufacturing decline increased returns and decreased opportunity costs of education, and with sociological accounts linking working-class environment and children’s education.
